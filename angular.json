@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "blockchain-poll"
+  "defaultProject": "blockchain-poll",
+  "cli": {
+    "analytics": "5c73ecbd-8e56-4a2b-80e6-a95715d5a417"
+  }
 }
